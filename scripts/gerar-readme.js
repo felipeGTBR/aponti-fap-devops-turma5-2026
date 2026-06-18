@@ -22,13 +22,13 @@ path.join(pastaAlunos, arquivo),
 "utf8"
 );
 
-```
+
 const aluno = JSON.parse(conteudo);
 
 if (!aluno.nome || !aluno.github) continue;
 
 alunos.push(aluno);
-```
+
 
 } catch (erro) {
 console.log(`Erro ao ler ${arquivo}:`, erro.message);
@@ -56,7 +56,8 @@ let tabela = `
 
 | Avatar | Nome | GitHub | Cidade | LinkedIn |
 | ------ | ---- | ------ | ------ | -------- |
-| ;     |      |        |        |          |`
+|        |      |        |        |          |`
+;
 
 for (const aluno of alunosFiltrados) {
 

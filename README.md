@@ -23,14 +23,17 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 
 | Avatar | Nome | GitHub | Cidade | LinkedIn |
 | ------ | ---- | ------ | ------ | -------- |
-| ;     |      |        |        |          |
+|        |      |        |        |          || <img src="https://github.com/carlhenriquex.png" width="50"> | Carlos Henrique | [@carlhenriquex](https://github.com/carlhenriquex) | Recife | [Perfil](https://linkedin.com/in/carlhenriquex) |
+| <img src="https://github.com/Bartosz-Junior.png" width="50"> | Junior Teste | [@Bartosz-Junior](https://github.com/Bartosz-Junior) | Recife | [Perfil](https://linkedin.com/in/Bartosz-Junior) |
+| <img src="https://github.com/vitoriacamilo-ai.png" width="50"> | Vitoria Camilo | [@vitoriacamilo-ai](https://github.com/vitoriacamilo-ai) | Recife | [Perfil](https://linkedin.com/in/vitoriacamilo-ai) |
+
 <!-- TABELA-FIM -->
 
 ## Estatísticas
 
 <!-- ESTATISTICAS-INICIO -->
-Total de alunos cadastrados: 0
+Total de alunos cadastrados: 3
 
-Última atualização: 18/06/2026, 11:29
+Última atualização: 18/06/2026, 11:43
 
 <!-- ESTATISTICAS-FIM -->

@@ -36,6 +36,7 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 | <img src="https://github.com/miqueias-eduardo.png" width="50"> | Miqueias Eduardo | [@miqueias-eduardo](https://github.com/miqueias-eduardo) | Jaboatão dos Guararapes | [Perfil](https://www.linkedin.com/in/miqueias-eduardo) |
 | <img src="https://github.com/Nayara1505.png" width="50"> | Nayara Karla Medeiros da Silva | [@Nayara1505](https://github.com/Nayara1505) | Jaboatão dos Guararapes | - |
 | <img src="https://github.com/nhsneto.png" width="50"> | Nelson Neto | [@nhsneto](https://github.com/nhsneto) | Paulista | [Perfil](https://linkedin.com/in/nhsneto) |
+| <img src="https://github.com/Ovat1o.png" width="50"> | Otávio Leão | [@Ovat1o](https://github.com/Ovat1o) | Recife | [Perfil](https://linkedin.com/in/otaviosleao) |
 | <img src="https://github.com/PedroDelmiro13.png" width="50"> | Pedro Delmiro | [@PedroDelmiro13](https://github.com/PedroDelmiro13) | Jaboatão dos Guararapes | [Perfil](https://linkedin.com/in/pedrodelmiro) |
 | <img src="https://github.com/ph95583faculdade-maker.png" width="50"> | Pedro Henrique | [@ph95583faculdade-maker](https://github.com/ph95583faculdade-maker) | Recife | [Perfil](https://www.linkedin.com/in/pedro-h-lima) |
 | <img src="https://github.com/talescavalcanti.png" width="50"> | Tales Cavalcanti | [@talescavalcanti](https://github.com/talescavalcanti) | Jaboatão dos Guararapes | [Perfil](https://linkedin.com/in/tales-cavalcantii) |
@@ -47,8 +48,8 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 ## Estatísticas
 
 <!-- ESTATISTICAS-INICIO -->
-Total de alunos cadastrados: 21
+Total de alunos cadastrados: 22
 
-Última atualização: 20/06/2026, 02:49
+Última atualização: 20/06/2026, 02:50
 
 <!-- ESTATISTICAS-FIM -->

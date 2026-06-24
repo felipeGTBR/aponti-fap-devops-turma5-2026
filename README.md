@@ -30,6 +30,7 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 | <img src="https://github.com/Gabriel-Garabedian.png" width="50"> | Gabriel da SilvaDer Garabedian | [@Gabriel-Garabedian](https://github.com/Gabriel-Garabedian) | Jaboatõa dos Guararapes  | [Perfil](https://www.linkedin.com/in/garabedi4n) |
 | <img src="https://github.com/gavvdev.png" width="50"> | Gabriela Pires | [@gavvdev](https://github.com/gavvdev) | Janga, Paulista | [Perfil](https://linkedin.com/in/gabriela-pires-7787b6279) |
 | <img src="https://github.com/jhonnysethub.png" width="50"> | Jhonny Emanoel | [@jhonnysethub](https://github.com/jhonnysethub) | Abreu e Lima | [Perfil](https://linkedin.com/in/jhonny-emanoel) |
+| <img src="https://github.com/leonard0antonio.png" width="50"> | Leonardo Antonio | [@leonard0antonio](https://github.com/leonard0antonio) | Camaragibe | [Perfil](https://www.linkedin.com/in/leonardo-a-a063b519b/) |
 | <img src="https://github.com/LucasEmmanoel06.png" width="50"> | Lucas Emmanoel | [@LucasEmmanoel06](https://github.com/LucasEmmanoel06) | Recife | [Perfil](https://linkedin.com/in/lucasemalbuquerque) |
 | <img src="https://github.com/lucas-henriquedias.png" width="50"> | Lucas Henrique Dias de Medeiros | [@lucas-henriquedias](https://github.com/lucas-henriquedias) | Jaboatão dos Guararapes | [Perfil](https://www.linkedin.com/in/lucas-henrique-dias-345666346/) |
 | <img src="https://github.com/https://github.com/LucasMadureiro.png" width="50"> | Lucas Madureiro | [@https://github.com/LucasMadureiro](https://github.com/https://github.com/LucasMadureiro) | Paulista | [Perfil](https://www.linkedin.com/in/lucas-madureiro-matias-6946a8277/) |
@@ -50,8 +51,8 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 ## Estatísticas
 
 <!-- ESTATISTICAS-INICIO -->
-Total de alunos cadastrados: 24
+Total de alunos cadastrados: 25
 
-Última atualização: 22/06/2026, 18:04
+Última atualização: 24/06/2026, 22:19
 
 <!-- ESTATISTICAS-FIM -->
